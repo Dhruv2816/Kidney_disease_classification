@@ -60,3 +60,5 @@ except Exception as e:
         logger.exception(e)
         raise e
 
+
+# 767397823950.dkr.ecr.ap-southeast-2.amazonaws.com/kidney
